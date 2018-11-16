@@ -2,7 +2,7 @@
 日本のyoutuberの交友関係、コミュニティを解析する。
 
 ## 使い方
-1. 日本のYoutuberランキング(https://ytranking.net) より1〜200位のチャンネル名をリストcnames.txtを作る。
+1. 日本のYoutuberランキング(https://ytranking.net) より1〜200位のチャンネル名のリストcnames.txtを作る。
 2. apiキーは.envファイルに入れておく。
 3. cnames.txtからcreate_idlist.pyを用いて1~200位のIDリストcids.txtを作る。
 4. cnames.txtとcids.txtからcreate_relationlist.pyを用いて交友関係リストyoutuber.txtを作る。
