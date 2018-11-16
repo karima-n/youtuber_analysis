@@ -1,4 +1,5 @@
 # youtuber_analysis
+日本のyoutuberの交友関係、コミュニティを解析する。
 
 ## 使い方
 1. 日本のYoutuberランキング(https://ytranking.net) より1〜200位のチャンネル名をリストcnames.txtを作る。
